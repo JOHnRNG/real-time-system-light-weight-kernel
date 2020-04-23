@@ -1,2 +1,2 @@
-# real-time-system-light-weight-kernel
-It is a light weight kernel 
+# real-time-operating-system
+
