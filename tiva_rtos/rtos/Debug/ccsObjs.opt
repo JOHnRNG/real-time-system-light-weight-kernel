@@ -1,0 +1,1 @@
+"./tm4c1294ncpdt_startup_ccs.obj" "./src/Buffer.obj" "./src/Kernel.obj" "./src/Proc_switch.obj" "./src/Queue.obj" "./src/Systick.obj" "./src/Time.obj" "./src/Uart.obj" "./src/main.obj" "./src/monitor.obj" "./src/tests.obj" "../tm4c1294ncpdt.cmd" -llibc.a 
