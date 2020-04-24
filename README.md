@@ -4,6 +4,7 @@ This project is about real time operating system design based on tiva c microcon
 Supported microcontroller: Tiva TM4C1294NCPDT Microcontroller
 
 Features:
+ 
  Priority queue: each process is assigned to a priority queue from priority 1 to priority 5, only the process with current highest     priority gets to occupy CPU.
  
  Time quanta: each process is allowed to occupy the CPU for a certain tiem quanta, when the timer expires, it will be swapped out, and next process gets to run.
